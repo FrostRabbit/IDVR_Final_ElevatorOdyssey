@@ -1,0 +1,10 @@
+.plastic/
+.vscode/
+.idea/
+Library/
+Logs/
+obj/
+UserSettings/
+*.unitypackage
+Assets/cinema/clip.mp4
+Assets/cinema/scenes/cinema/LightingData.asset

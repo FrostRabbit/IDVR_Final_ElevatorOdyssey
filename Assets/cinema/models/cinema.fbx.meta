@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 2232f045c7a0aec40ab53b83fd11c446
+timeCreated: 1497596783
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: armrest_L
+    100002: armrest_R
+    100004: ceiling
+    100006: //RootNode
+    100008: Cinema_chair
+    100010: Cinema_chair_MeshPart0
+    100012: Cinema_chair_MeshPart1
+    100014: Cinema_chair_MeshPart2
+    100016: Cinema_chair_MeshPart3
+    100018: floor
+    100020: lamp
+    100022: screen
+    100024: screen.001
+    100026: seat
+    100028: shadow
+    100030: wall
+    100032: wall_2
+    100034: Cube.001
+    100036: wall.001
+    100038: line
+    100040: door
+    100042: sound
+    100044: wire
+    100046: Plane
+    100048: lamp_p
+    100050: cloth
+    100052: Cube
+    100054: Loudspeaker
+    400000: armrest_L
+    400002: armrest_R
+    400004: ceiling
+    400006: //RootNode
+    400008: Cinema_chair
+    400010: Cinema_chair_MeshPart0
+    400012: Cinema_chair_MeshPart1
+    400014: Cinema_chair_MeshPart2
+    400016: Cinema_chair_MeshPart3
+    400018: floor
+    400020: lamp
+    400022: screen
+    400024: screen.001
+    400026: seat
+    400028: shadow
+    400030: wall
+    400032: wall_2
+    400034: Cube.001
+    400036: wall.001
+    400038: line
+    400040: door
+    400042: sound
+    400044: wire
+    400046: Plane
+    400048: lamp_p
+    400050: cloth
+    400052: Cube
+    400054: Loudspeaker
+    2300000: armrest_L
+    2300002: armrest_R
+    2300004: ceiling
+    2300006: Cinema_chair_MeshPart0
+    2300008: Cinema_chair_MeshPart1
+    2300010: Cinema_chair_MeshPart2
+    2300012: Cinema_chair_MeshPart3
+    2300014: floor
+    2300016: lamp
+    2300018: screen
+    2300020: screen.001
+    2300022: seat
+    2300024: shadow
+    2300026: wall
+    2300028: wall_2
+    2300030: Cube.001
+    2300032: wall.001
+    2300034: line
+    2300036: door
+    2300038: sound
+    2300040: wire
+    2300042: Plane
+    2300044: lamp_p
+    2300046: cloth
+    2300048: Cube
+    2300050: Loudspeaker
+    3300000: armrest_L
+    3300002: armrest_R
+    3300004: ceiling
+    3300006: Cinema_chair_MeshPart0
+    3300008: Cinema_chair_MeshPart1
+    3300010: Cinema_chair_MeshPart2
+    3300012: Cinema_chair_MeshPart3
+    3300014: floor
+    3300016: lamp
+    3300018: screen
+    3300020: screen.001
+    3300022: seat
+    3300024: shadow
+    3300026: wall
+    3300028: wall_2
+    3300030: Cube.001
+    3300032: wall.001
+    3300034: line
+    3300036: door
+    3300038: sound
+    3300040: wire
+    3300042: Plane
+    3300044: lamp_p
+    3300046: cloth
+    3300048: Cube
+    3300050: Loudspeaker
+    4300000: shadow
+    4300002: wall_2
+    4300004: screen.001
+    4300006: floor
+    4300008: ceiling
+    4300010: screen
+    4300012: wall
+    4300014: lamp
+    4300016: Cinema_chair_MeshPart0
+    4300018: Cinema_chair_MeshPart1
+    4300020: Cinema_chair_MeshPart2
+    4300022: Cinema_chair_MeshPart3
+    4300024: seat
+    4300026: armrest_L
+    4300028: armrest_R
+    4300030: wall.001
+    4300032: Cube.001
+    4300034: line
+    4300036: door
+    4300038: wire
+    4300040: sound
+    4300042: Plane
+    4300044: lamp_p
+    4300046: cloth
+    4300048: Cube
+    4300050: Loudspeaker
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
